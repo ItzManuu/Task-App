@@ -9,9 +9,9 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="vivid_pink">#FE9686</color>
-    <color name="vivid_pink_secondary">#FE8472</color>
+    <color name="vivid_pink_secondary">#046527</color>
     <color name="burgundy">#442C2E</color>
-    <color name="frontbg">#555577</color>
+    <color name="frontbg">#7F9A7A</color>
 
 
 </resources>
