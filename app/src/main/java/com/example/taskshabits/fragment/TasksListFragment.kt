@@ -66,7 +66,7 @@ class TasksListFragment : Fragment() {
 
             Toast.makeText(context, "🎉 Task Completed 👏🏻", Toast.LENGTH_SHORT).show()
 
-        }
+        }               
 
 
         addTasksFAB.setOnClickListener {
